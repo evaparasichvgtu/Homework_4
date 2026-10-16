@@ -9,6 +9,7 @@
 <img width="780" height="702" alt="Снимок экрана 2026-10-16 223502" src="https://github.com/user-attachments/assets/c3d8d1ca-7edc-4d3b-909b-d4898d828ecc" />
 
 # Код
+```
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <locale.h>
@@ -27,6 +28,6 @@ int main() {
 	}
 	return 0;
 }
-
+```
 # Вывод: 
 Программа проверяет, кратны ли три введенных пользователем числа числу 3. Если все три числа делятся на 3 без остатка - гипотеза подтверждена, иначе опровергается.
